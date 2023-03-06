@@ -47,7 +47,7 @@ div#imgfundo h1 {
     font-weight: bolder;
     padding: 5px;
     padding-left: 20px;
-    font-size: 12vw;
+    font-size: 16vw;
     font-variant: small-caps;
 }
 
@@ -68,7 +68,7 @@ div#imgfundo a:hover {
 
 section {
     font-family: var(--fonte01);
-    font-size: 4vw;
+    font-size: 5.5vw;
     padding-top: 10vh;
     padding-bottom: 10vh;
     line-height: 2.5em;
